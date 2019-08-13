@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "Test Stream 1",
+      "description": "First stream db insertion test",
+      "id": 1
+    },
+    {
+      "title": "Test Stream 1",
+      "description": "First stream db insertion test",
+      "id": 2
+    },
+    {
+      "title": "Test Stream 1",
+      "description": "First stream db insertion test",
+      "id": 3
+    },
+    {
+      "title": "first stream with user id",
+      "description": "added a user id for dynamic edit/delete access",
+      "userId": "108982251026575092969",
+      "id": 4
+    },
+    {
+      "title": "checking changes",
+      "description": "this description has been refactored",
+      "id": 7
+    }
+  ]
+}
